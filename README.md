@@ -1,7 +1,7 @@
 # Báo cáo tiến độ nghiên cứu ngày 24/10/2026
 ## A. Công việc đã làm
 - Hàn linh kiện vào mạch để so sánh với mạch đã hàn trước đo
-- So sánh cảm biến mới hàn với cảm biến cũ đã hàn
+- So sánh giá trị khi không tác động của cảm biến mới hàn với cảm biến cũ trước đó
 ## B. Khó Khăn
 ## C. Báo cáo chi tiết 
 ### 1. Source code
