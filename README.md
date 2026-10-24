@@ -4,8 +4,8 @@
 - So sánh cảm biến mới với cảm biến cũ 
 ## B. Khó Khăn
 ## C. Báo cáo chi tiết 
-### 1. Code sau rút gọn
-
+### 1. Source code
+https://github.com/anpham2k5/bao_cao_24_10/tree/master/STM32_ADC_Touch/src
 ### 2. Mạch mới sau hàn
 <p align="center">
   <img src="image/mach_moi.jpg" alt="Ảnh 1" width="45%" />
